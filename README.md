@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zackratos&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zackratos&show_icons=true&include_all_commits=true" />
 
 ### Hi there 👋
 
