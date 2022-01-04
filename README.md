@@ -1,4 +1,11 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zackratos&show_icons=true" />
+
 ### Hi there 👋
+
+- :orange_book: Focusing on Java & Android
+- :hammer: Creator of applications and frameworks
+- :ram: Author the UltimateBarX
+- :meat_on_bone: Meat lover
 
 <!--
 **Zackratos/Zackratos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
